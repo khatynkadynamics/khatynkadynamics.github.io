@@ -11,7 +11,7 @@
  
 ## About
 
-Welcome to the **khatynkadynamics** community of open source software and hardware developers. Here, we share a common passion for creating innovative and useful tools, applications, and devices that are freely available for anyone to use, modify, and distribute.
+Welcome to the :house:**khatynkadynamics**:house: community of open source software and hardware developers. Here, we share a common passion for creating innovative and useful tools, applications, and devices that are freely available for anyone to use, modify, and distribute.
 
 ## Contact Us
 
